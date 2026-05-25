@@ -1,6 +1,6 @@
 # Windsor Parking Helper
 
-Windsor Parking Helper is a simple Chrome extension that helps users find public parking near Windsor, Ontario landmarks and addresses. It is built as a portfolio-friendly demo with local sample data, a clean popup UI, and a right-click address helper for Chrome.
+Windsor Parking Helper is a simple Chrome extension that helps users find public parking near Windsor, Ontario landmarks and addresses.
 
 ## Features
 
@@ -43,16 +43,3 @@ Windsor Parking Helper is a simple Chrome extension that helps users find public
 - The demo uses local sample parking data and hardcoded destination coordinates
 - Exact street-address geocoding is not available in this demo
 - Google Maps links open in the browser, but no live parking availability is included
-
-## Future improvements
-
-- Connect to City of Windsor open data
-- Add real geocoding for full address lookup
-- Add live parking availability if a public feed becomes available
-- Add a map preview
-- Add parking cost information
-
-## Resume Bullet
-
-- Built a Chrome extension using TypeScript, React, Vite, and Manifest V3 to deliver a polished local-first parking search experience.
-- Implemented a context-menu workflow, local storage persistence, and Google Maps URL integrations for a practical browser-based demo.
