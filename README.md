@@ -2,6 +2,8 @@
 
 Windsor Parking Helper is a simple Chrome extension that helps users find public parking near Windsor, Ontario landmarks and addresses.
 
+DEMO VIDEO HERE -> https://youtu.be/-DaLRtAdgPU
+
 ## Features
 
 - Search nearby parking lots from the extension popup
